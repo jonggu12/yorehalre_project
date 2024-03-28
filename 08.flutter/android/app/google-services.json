@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "438028081935",
+    "project_id": "senior-752be",
+    "storage_bucket": "senior-752be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438028081935:android:7da8ee3d75354e38e6fc7a",
+        "android_client_info": {
+          "package_name": "com.example.figmatoflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438028081935-ibuo4bhii6pnpntcifen4fmttgd3hus2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.figmatoflutter",
+            "certificate_hash": "e11955db2292a7d8bbb4918d96772e0f8a8db0ad"
+          }
+        },
+        {
+          "client_id": "438028081935-9i7if3v9qetn0b739bhvvliqjln7risp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ1DijpYp1HkHmDOkIMYz6XJPoky4pj2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438028081935-9i7if3v9qetn0b739bhvvliqjln7risp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438028081935-n9j1ptf41joa0cud2lm9h7djna7r81t6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.figmatoflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438028081935:android:870ab23cb5fac8cae6fc7a",
+        "android_client_info": {
+          "package_name": "com.example.seniorproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438028081935-9i7if3v9qetn0b739bhvvliqjln7risp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ1DijpYp1HkHmDOkIMYz6XJPoky4pj2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438028081935-9i7if3v9qetn0b739bhvvliqjln7risp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438028081935-n9j1ptf41joa0cud2lm9h7djna7r81t6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.figmatoflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
