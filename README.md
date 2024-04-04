@@ -5,7 +5,7 @@
 <img width="500" alt="Screenshot 2024-04-04 at 4 15 51 PM" src="https://github.com/jonggu12/yorehalre_project/assets/155503641/de17144f-baa5-4082-ae9d-6f47f0efe5fa">
 
 ### 2. 사전 조사
-네이버 지식in "어르신 식단" 검색 결과에 관한 질문 분석을 통해 주요 관심 카테고리 파악
+- 네이버 지식in "어르신 식단" 검색 결과에 관한 질문 분석을 통해 주요 관심 카테고리 파악()
 <img width="500" alt="Screenshot 2024-04-04 at 4 07 41 PM" src="https://github.com/jonggu12/yorehalre_project/assets/155503641/2fc052d3-0552-4450-912f-de77d79642cc">
 
 ### 3. 서비스 설계
