@@ -2,7 +2,7 @@
 
 ### 1. 주제 선정
 - 연령대별 인구 분포 추이 시각화
-<img width="500" alt="Screenshot 2024-04-04 at 4 12 55 PM" src="https://github.com/jonggu12/yorehalre_project/assets/155503641/28450a37-19bb-4569-9ec4-c8794fc047c4">
+<img width="500" alt="Screenshot 2024-04-04 at 4 15 51 PM" src="https://github.com/jonggu12/yorehalre_project/assets/155503641/de17144f-baa5-4082-ae9d-6f47f0efe5fa">
 
 ### 2. 사전 조사
 네이버 지식in "어르신 식단" 검색 결과에 관한 질문 분석을 통해 주요 관심 카테고리 파악
@@ -14,7 +14,6 @@
 ### 4. 기술 구현
 - AI 식단 등록 - YOLO | 
 [AI 식단 등록 시현영상](https://youtube.com/shorts/xWoff31L8to)
-
 - 레시피 검색 최적화 - Weaviate Hybrid 검색 | 
 [레시피 검색 시현영상](https://youtube.com/shorts/t7srohSjGSc)
 - 개인 맞춤 레시피 추천 - 추천 알고리즘 | 
