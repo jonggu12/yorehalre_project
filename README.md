@@ -12,7 +12,7 @@
 ### 3. 서비스 설계
 [요레할래 와이어프레임 GUI 설계서](https://www.figma.com/file/0yH0FsIeZk750Mxm8WiAOH/%EC%9A%94%EB%A0%88%ED%95%A0%EB%9E%98_%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?type=design&node-id=0-1&mode=design&t=54iblGVQL8xgUhfT-0)
 
-### 4. 기술 구현
+### 4. 기술 구현 및 시현영상
 - AI 식단 등록 - YOLO | 
 [AI 식단 등록 시현영상](https://youtube.com/shorts/xWoff31L8to)
 - 레시피 검색 최적화 - Weaviate Hybrid 검색 | 
